@@ -1,0 +1,1 @@
+{"couleur": "bleu", "marque": "peugeot", "taillePneu": 28, "nbVitesses": 21, "vitesse_courante": 0}
